@@ -1,0 +1,8 @@
+title: Jsignature
+description: jQuery plugin for adding web signature functionality
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
